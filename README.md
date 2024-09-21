@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cristography
 - 👀 I’m interested in ... art, music, coding and creativity
-- 🌱 I’m currently learning ... python gui
+- 🌱 I’m currently learning ... deep learning
 - 💞️ I’m looking to collaborate on ... simple pythonn realted projects
 - 📫 How to reach me ... https://t.me/Crsitography
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+cool projects are comming soon!
 
 <!---
 Cristography/Cristography is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
